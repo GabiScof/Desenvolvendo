@@ -1,0 +1,7 @@
+alert("Seja Bem Vindo(a) Gabi/Anna!")
+alert("Tudo bem?")
+prompt("Digita o login ai pra entrar:")
+prompt("Agora digita a senha:")
+alert("Ótimo, bom acesso :)")
+prompt("Espera ai, digita a data que se conheceram só pra mim testar uma coisa:")
+alert("Agora sim, pode acessar!")
