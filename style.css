@@ -1,16 +1,31 @@
 body{
     background-color:  rgb(200,162,200);
 }
-h1{
-    color: yellow;
+.mural{
+    background-color: rgb(105, 126, 47);
+    padding-top: 5%;
+    padding-bottom: 40%;
+    border-radius: 15%;
 }
-h2{
-    color: yellow;
+.mural h1, h2{
+    text-align: center;
 }
-h3{
-    color: yellow;
+
+.favoritos{
+    background-color: rgb(51, 92, 204);
+    padding-top: 5%;
+    padding-bottom: 40%;
+    border-radius: 15%;
 }
-h4{
-    font-size: 100px;
-    color: red;
+.favoritos h1, h2{
+    text-align: center;
 }
+.gif{
+    text-align: center;
+    padding-top: 5%;
+}
+.gif2{
+    text-align: center;
+    padding-top: 5%;
+}
+
